@@ -22,7 +22,6 @@ xiaoaiGPT
 
 分别进入branch和main文件夹，在路径栏里输入cmd并按下回车，即可打开命令窗口
 
-![Untitled](win%E5%AE%9E%E7%8E%B0xiaoaiGPT%2086105dd6757e47988bca58cca21d6bdc/Untitled.png)
 
 ## 1。在main文件夹的cmd中
 
@@ -88,6 +87,4 @@ set OPENAI_API_KEY=xxxxxxx # 无需引号
 xiaogpt --hardware 机器型号  --mute_xiaoai --use_gpt3 --api_base https://mydomain/v1
 ```
 
-如何拥有没被GFW的域名，可以看看**[noobnooc](https://github.com/noobnooc/noobnooc)**的discussion，可谓是非常详尽了。。。具体效果如下：
-
-[QQ录屏20230317000358.mp4](win%E5%AE%9E%E7%8E%B0xiaoaiGPT%2086105dd6757e47988bca58cca21d6bdc/QQ%25E5%25BD%2595%25E5%25B1%258F20230317000358.mp4)
+如何拥有没被GFW的域名，可以看看**[noobnooc](https://github.com/noobnooc/noobnooc)**的discussion，可谓是非常详尽了。。。
