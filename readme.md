@@ -1,5 +1,7 @@
 # win实现xiaoaiGPT
 
+你可以在[notion](https://circular-kettle-026.notion.site/win-xiaoaiGPT-86105dd6757e47988bca58cca21d6bdc)上看到视频演示。
+
 **特别说明，这是一个很有趣的玩具，不要有太高期待，目前没有太大生产力价值，不仅是网络延迟问题，更重要是小爱的语音转文字错别字太多了，尤其是英语。。。**
 
 准备：
